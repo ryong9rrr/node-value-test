@@ -53,4 +53,4 @@ true
 
 파일의 경로를 잘 입력해주는 것이 중요합니다.
 
-Blog
+[Blog](https://ryong9rrr.tistory.com/9)
