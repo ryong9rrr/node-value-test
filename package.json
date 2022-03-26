@@ -1,0 +1,15 @@
+{
+  "name": "tdd_data-structure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
